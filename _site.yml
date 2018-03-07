@@ -1,8 +1,8 @@
 name: Wenwen Tan
 output_dir: '.'
 navbar:
-    title: Wenwen Tan
-    left:
+  title: Wenwen Tan
+  left:
   - text: Home
     href: index.html
   - text: Introduction
