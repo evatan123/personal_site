@@ -1,26 +1,5 @@
 ---
-<<<<<<< HEAD
-title: "Welcome to my website!"
-author: "Wenwen Tan"
-output:
-  html_document:
-    toc: yes
-    toc_depth: 3
-    toc_float:
-      collapsed: yes
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
----
 
-
-#About me
-
-
-
-
-
-=======
 title: "My Website"
 output:
   html_document:
