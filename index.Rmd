@@ -28,13 +28,13 @@ When I'm free I like taking photographs, travelling and playing sports. Tennis a
 
 ##[*Characterization of the anti-inflammatory effect of Kadsurenin F and TCM samples*]()
 
-Carried out density centrifugation technology to separate cells from blood coats.
++ Carried out density centrifugation technology to separate cells from blood coats.
 
-Adopted MTT assays to test cell activities after the additions of compounds.
++ Adopted MTT assays to test cell activities after the additions of compounds.
 
-Conducted 5- lipoxygenase assays to simulate the 5-lipoxygenase pathway in human cells and used solid phase extraction to separate the metabolic products.
++ Conducted 5- lipoxygenase assays to simulate the 5-lipoxygenase pathway in human cells and used solid phase extraction to separate the metabolic products.
 
-Analyzed the experiment data by GraphPad Prism 4 and Microsoft Office Excel.
++ Analyzed the experiment data by GraphPad Prism 4 and Microsoft Office Excel.
 
 
 
