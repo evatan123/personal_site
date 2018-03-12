@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Welcome to my website!"
 author: "Wenwen Tan"
 output:
@@ -19,6 +20,44 @@ output:
 
 
 
+=======
+title: "My Website"
+output:
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: false
+    toc_depth: 2
+---
+
+Welcome to my Website!
+
+![](https://github.com/evatan123/personal_site/blob/master/425.JPG?raw=true)
+
+#About me
+
+Hi, everyone! I'm Wenwen from Beijing, China. I'm currently a graduate student in UMass-Amherst, major in biostatistics. Before coming to the US, I studied pharmacy for a Bachelor's degree in Wuhan University in China. I also traveled to Germany as an exchange student in Jena University, where I'm lucky enough to become a research assistant in the lab of Prof. Oliver Werz, searching for new compounds to suppress the inflamation process in human body.
+
+I like doing medical research and dealing with medical research data. R and SAS are the most often used computer softwares in our realm of study. Visualizing, manipulating and cleaning data using SAS and R are interesting. The truth behind the data also attracts me a lot.
+
+When I'm free I like taking photographs, travelling and playing sports. Tennis and swimming are my favorite sports. I was once a volunteer in Wuhan Tennis Open Tournament, supervising the sports women's locker room. I saw a lot of famous tennis players during the game, which is very exciting!
+
+#Projects
+
+##[*A prospective cohort investigating association between marijuana consumption and clinical depression diagnosis among freshmen in UMass*]()
+
+##[*Finding association between hypertension and several risk factors using SAS*]()
+
+##[*Characterization of the anti-inflammatory effect of Kadsurenin F and TCM samples*]()
+
++ Carried out density centrifugation technology to separate cells from blood coats.
+
++ Adopted MTT assays to test cell activities after the additions of compounds.
+
++ Conducted 5- lipoxygenase assays to simulate the 5-lipoxygenase pathway in human cells and used solid phase extraction to separate the metabolic products.
+
++ Analyzed the experiment data by GraphPad Prism 4 and Microsoft Office Excel.
+>>>>>>> 541a0c14076a80fffada9ba7b39298540a4044d0
 
 
 
