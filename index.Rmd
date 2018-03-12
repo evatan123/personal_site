@@ -36,7 +36,7 @@ When I'm free I like taking photographs, travelling and playing sports. Tennis a
 + Conducted 5- lipoxygenase assays to simulate the 5-lipoxygenase pathway in human cells and used solid phase extraction to separate the metabolic products.
 
 + Analyzed the experiment data by GraphPad Prism 4 and Microsoft Office Excel.
->>>>>>> 541a0c14076a80fffada9ba7b39298540a4044d0
+
 
 
 
