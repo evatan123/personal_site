@@ -4,7 +4,7 @@
 
 <head>
 
-<meta charset="utf-8">
+<meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 
@@ -19,31 +19,26 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<<<<<<< HEAD
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-=======
->>>>>>> 823d6dae3a7de4eee41554a8f64614d4b261577b
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/default.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -103,6 +98,7 @@ button.code-folding-btn:focus {
 }
 </style>
 
+
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
@@ -159,7 +155,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -310,11 +305,20 @@ div.tocify {
 
 
 <p>Welcome to my Website!</p>
-<div id="about-me" class="section level1">
-<h1>About me</h1>
 <div class="figure">
 <img src="https://github.com/evatan123/personal_site/blob/master/425.JPG?raw=true" />
 
+</div>
+<div id="about-me" class="section level1">
+<h1>About me</h1>
+<p>Hi, everyone! I’m Wenwen from Beijing, China. I’m currently a graduate student in UMass-Amherst, major in biostatistics. Before coming to the US, I studied pharmacy for a Bachelor’s degree in Wuhan University in China. I also traveled to Germany as an exchange student in Jena University, where I’m lucky enough to become a research assistant in the lab of Prof. Oliver Werz, searching for new compounds to suppress the inflamation process in human body.</p>
+<p>I like doing medical research and dealing with medical research data. R and SAS are the most often used computer softwares in our realm of study. Visualizing, manipulating and cleaning data using SAS and R are interesting. The truth behind the data also attracts me a lot.</p>
+<p>When I’m free I like taking photographs, travelling and playing sports. Tennis and swimming are my favorite sports.(Though not very good at it.) I was once a volunteer in Wuhan Tennis Open Tournament, supervising the sports women’s locker room. I saw a lot of famous tennis players during the game, which is very exciting!</p>
+</div>
+<div id="projects" class="section level1">
+<h1>Projects</h1>
+<div id="characterization-of-the-anti-inflammatory-effect-of-kadsurenin-f-and-tcm-samples" class="section level2">
+<h2><em>Characterization of the anti-inflammatory effect of Kadsurenin F and TCM samples</em></h2>
 </div>
 </div>
 
@@ -328,9 +332,13 @@ div.tocify {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
+
 
 </script>
 
@@ -339,7 +347,7 @@ $(document).ready(function () {
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
