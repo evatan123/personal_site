@@ -18,11 +18,15 @@ Hi, everyone! I'm Wenwen from Beijing, China. I'm currently a graduate student i
 
 I like doing medical research and dealing with medical research data. R and SAS are the most often used computer softwares in our realm of study. Visualizing, manipulating and cleaning data using SAS and R are interesting. The truth behind the data also attracts me a lot.
 
-When I'm free I like taking photographs, travelling and playing sports. Tennis and swimming are my favorite sports.(Though not very good at it.) I was once a volunteer in Wuhan Tennis Open Tournament, supervising the sports women's locker room. I saw a lot of famous tennis players during the game, which is very exciting!
+When I'm free I like taking photographs, travelling and playing sports. Tennis and swimming are my favorite sports. I was once a volunteer in Wuhan Tennis Open Tournament, supervising the sports women's locker room. I saw a lot of famous tennis players during the game, which is very exciting!
 
 #Projects
 
-##*Characterization of the anti-inflammatory effect of Kadsurenin F and TCM samples*
+##[*A prospective cohort investigating association between marijuana consumption and clinical depression diagnosis among freshmen in UMass*]()
+
+##[*Finding association between hypertension and several risk factors using SAS*]()
+
+##[*Characterization of the anti-inflammatory effect of Kadsurenin F and TCM samples*]()
 
 Carried out density centrifugation technology to separate cells from blood coats.
 
@@ -31,4 +35,6 @@ Adopted MTT assays to test cell activities after the additions of compounds.
 Conducted 5- lipoxygenase assays to simulate the 5-lipoxygenase pathway in human cells and used solid phase extraction to separate the metabolic products.
 
 Analyzed the experiment data by GraphPad Prism 4 and Microsoft Office Excel.
+
+
 
