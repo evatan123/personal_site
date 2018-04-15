@@ -10,6 +10,6 @@ output:
 ---
 
 
-More about this website. 更多
+More about this website. 更多信息
 
 ![](https://github.com/evatan123/personal_site/blob/master/425.JPG?raw=true)
