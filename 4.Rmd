@@ -47,10 +47,21 @@ output:
     width: 30%;
   }
   
+   .content-4 {
+    font-family: Times New Roman;
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 0;
+    float: left;
+    width: 100%;
+    }
+  
+  
+  
   
   li{
-  margin-top: -10px;
-  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   margin-left: 5%;
 }
 
@@ -75,21 +86,20 @@ hr{
 
 </br>
 <div class="head-1">Wenwen Tan</div>
-<div class="head-2">evatan123@hotmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13693193863</div>
+<div class="head-2">evatan123\@hotmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13693193863</div>
 
 <div class="content">Education</div>
 
 
 <hr/>
 
-<div class="content-3">Sep 2016 - May 2017</div>
 <div class="content-2">University of Massachusetts Amherst</div>
-<div class="content-2">Major: Biostatistics</div>
-
-<div class="content-2">Scholarship: David Hosmer Award</div>
+<div class="content-3">Sep 2016 - May 2017</div>
+<div class="content-4">Major: Biostatistics</div>
+<div class="content-4">Scholarship: David Hosmer Award</div>
 <div class="content-2">Wuhan University</div>
 <div class="content-3">Sep 2012 - May 2016</div>
-<div class="content-2">Major: Pharmacy</div>
+<div class="content-4">Major: Pharmacy</div>
 
 <div class="content">Work Experience</div>
 <hr/>
