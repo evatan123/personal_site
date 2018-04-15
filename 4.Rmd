@@ -7,7 +7,7 @@ output:
       collapsed: yes
 ---
 <style>
-.head-1 {
+  .head-1 {
     font-family: Times New Roman;
     font-size: 32px;
     font-weight: bold;
@@ -22,6 +22,7 @@ output:
   
   .content {
     font-family: Times New Roman;
+    font-weight: bold;
     font-size: 32px;
     font-weight: normal;
     margin-left: 0;
@@ -55,22 +56,19 @@ output:
     float: left;
     width: 100%;
     }
-  
-  
-  
-  
+    
   li{
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 0;
 }
 
-h1{
+  h1{
   font-family: Times New Roman;
 }
 
 
-hr{
+  hr{
   border: 0px;
   height: 2px;
   margin-top: 0px;
@@ -107,12 +105,13 @@ hr{
 
 <div class="content-3">Jan 2018 - present</div>
 
-
-
+<div class = "content-4">
 - Completed daily, weekly and monthly data analysis report using excel(data from gas satations of Sinopec)
 - Provided data support and effective suggestion for marketing department
 - Carried out special case study and wrote case report regularly
 - Responded to  special data requirement from customers and mined the data to make better analysis and provided good suggestion for new projects and new processes
+</div>
+
 
 </body>
 
