@@ -7,9 +7,6 @@ output:
     toc_depth: 3
     toc_float:
       collapsed: yes
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
 ---
 
 

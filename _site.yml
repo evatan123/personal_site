@@ -6,5 +6,7 @@ navbar:
   - text: Home
     href: index.html
   - text: Introduction
-    href: about.html
+    href: about.html 
+  - text: Resume
+    href: Resume.html
 output: html_document
