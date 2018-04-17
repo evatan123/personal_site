@@ -24,7 +24,6 @@ output:
     font-family: Times New Roman;
     font-weight: bold;
     font-size: 32px;
-    font-weight: normal;
     margin-left: 0;
     width: 100%;
   }
@@ -32,7 +31,7 @@ output:
   .content-2 {
     font-family: Times New Roman;
     font-size: 20px;
-    font-weight: normal;
+    font-weight: bold;
     margin-left: 0;
     float: left;
     width: 70%;
@@ -110,6 +109,28 @@ output:
 - Provided data support and effective suggestion for marketing department
 - Carried out special case study and wrote case report regularly
 - Responded to  special data requirement from customers and mined the data to make better analysis and provided good suggestion for new projects and new processes
+</div>
+
+<div class = "content-2">Xian-Janssen Pharmaceutical Ltd.</div>
+<div class = "content-3">Oct 2017 - Jan 2018</div>
+<div class = "content-4">
+- Followed up the process of meetings and collected related materials.
+- Analyzed the data related with the meetings hosted.
+- Made charts and recorded the process of meetings.
+- Archived the document related to the meetings hosted.
+</div>
+
+<div class="content">Research Experience</div>
+<hr/>
+
+<div class="content-2">University of Jena</div>
+<div class="content-3">Oct 2015 - May 2016</div>
+<div class = "content-4">
+- Identified the anti- inflammatory effect of two series of sompounds.
+- Carried out density centrifugation technology to separate cells from blood coats.
+- Adopted MTT assays to test cell activities after the additions of compounds.
+- Conducted 5- lipoxygenase assays to simulate the 5- lipoxygenase pathway in human cells and used solid phase extraction to separate the metabolic products.
+- Analyzed the experiment data by GraphPad Prism 4 and Microsoft Office Excel.
 </div>
 
 
