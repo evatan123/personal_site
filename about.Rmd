@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "Project"
 author: "Wenwen Tan"
 output:
   html_document:
@@ -12,4 +12,3 @@ output:
 
 More about this website. 更多信息
 
-![](https://github.com/evatan123/personal_site/blob/master/425.JPG?raw=true)
