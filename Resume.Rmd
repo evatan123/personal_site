@@ -79,7 +79,7 @@ output:
  
 </style>
 
-<body bgcolor = "pink">
+<body>
 
 </br>
 <div class="head-1">Wenwen Tan</div>
